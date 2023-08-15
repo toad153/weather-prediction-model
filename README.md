@@ -1,7 +1,5 @@
 # Weather Prediction Model using Ridge Regression
 
-![Weather Prediction](weather_prediction_image.jpg)
-
 This repository contains a weather prediction model implemented in Python using the Ridge Regression algorithm. The model achieves an impressive accuracy of approximately 97% by leveraging a diverse set of predictors. In this README, we'll provide an overview of the project, explain the model's architecture, and guide you through the steps to run and use the model.
 
 ## Table of Contents
